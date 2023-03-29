@@ -53,6 +53,7 @@
           <span class="grow w-full px-4 text-center">링크 버튼 3</span>
         </a>
       </div>
+      <img src="/image.png" />
     </div>
   </body>
 </html>
